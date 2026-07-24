@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Combined Repentance Tweaks</name>
+    <directory>combined repentance tweaks</directory>
+    <id>3748176926</id>
+    <description>An optimized combination of aesthetic and quality of life (QoL) mods for Repentance. It includes the following combined mods (some with specific patches and fixes):
+
+[b]Base Mods (Combined Only):[/b]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2529811350]Missing Costumes[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2515779552]aqepo's graphical tweaks[/url] (Fixed a bug with Eden and the Neptunus item when used alongside Missing Costumes)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2592082417]Azazel GFX Fix [Rep][/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2493017585]Consistent Blue Baby Sprites[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2495548579]Lilith's Empty Eyes[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2536776900]MORE costumes for the forgotten![/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2555620375]Unique Ghosts[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2553693353]Blue Baby's Wardrobe+[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2622566172]Visible Challenge Unlocks[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2783072644]Colored Achievement Descriptions[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2587591471]Visible Missing Marks[/url] (Fixed to work properly)
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2636893068]Deal Visual Change[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2947087664]More Visible Tinted Skull[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2550429029]High Visibility Tinted Rocks[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=3386996209]Tainted Lost Death Anim[/url]
+
+[b]Major Modifications:[/b]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=835236871]Better Character Menu[/url]
+- [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2871331781]Item Icons on Character Select[/url]
+(I basically remade these two to my liking. I extracted the sprites from these mods and, using vanilla resources extracted with the official tools, redesigned them to be visually consistent—such as glowing eyes for Eden and the new Bethany sprite).
+
+Unified and optimized code to prevent performance issues (lag) and script conflicts.</description>
+    <version>1.11</version>
+    <visibility>Friends Only</visibility>
+    <tag id="Lua"/>
+    <tag id="Tweaks"/>
+    <tag id="Graphics"/>
+</metadata>
