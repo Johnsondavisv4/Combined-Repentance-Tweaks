@@ -28,7 +28,7 @@
 (I basically remade these two to my liking. I extracted the sprites from these mods and, using vanilla resources extracted with the official tools, redesigned them to be visually consistent—such as glowing eyes for Eden and the new Bethany sprite).
 
 Unified and optimized code to prevent performance issues (lag) and script conflicts.</description>
-    <version>1.13</version>
+    <version>1.14</version>
     <visibility>Friends Only</visibility>
     <tag id="Lua"/>
     <tag id="Tweaks"/>
